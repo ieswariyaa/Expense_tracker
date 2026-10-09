@@ -60,3 +60,5 @@ The application uses SQLite. The database file is created automatically when the
 Security
 
 Passwords are hashed before storage. JWT tokens protect the expense endpoints, and each user can access only their own expenses.
+
+Project tested successfully using FastAPI Swagger UI.
